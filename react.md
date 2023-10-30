@@ -54,3 +54,23 @@ framework
 next js, remix, gatsby
 
 nextjs me frontend and backend bhi kr skte hai
+
+
+npx- node package executor
+create-react-app - utility (its just a software)
+
+its buily utility hai 
+web vitals- check krta hai performance of application
+
+script :
+project ko chalati hai
+start: dev me start krne k liye
+build: production me build krne ke liye
+test: test krne ke liye
+
+
+vite:
+ek builder he
+
+npm run dev
+
