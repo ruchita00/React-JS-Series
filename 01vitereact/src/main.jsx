@@ -7,3 +7,6 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <App />
   </React.StrictMode>
 );
+
+//react khudke dom bhi banata hai
+//javascript ke through ap apke tage run pa rh he

@@ -1,7 +1,9 @@
+import Begin from "./Beign";
+
 function App() {
   return (
     <>
-      <div>hello</div>
+      <Begin />{" "}
     </>
   );
 }
